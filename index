@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="Style.css">
+    <div class="topnav">
+        <a href="#home">FAQ</a>
+        <a href="#news">Explore creators</a>
+        <a href="#contact">Log in</a>
+        <a class="active" href="#about">Sign up</a>
+      </div>
+</head>
+<body>
+    <div class="header">
+        <h1>A supporter is worth a thousand followers.</h1>
+        <p>Accept donations. Start a membership. Sell anything you like. It’s easier than you think.</p>
+        <div class="topnav">
+            <a href="#about">buymecoffee.com/</a>
+            <a href="#contact">your name</a>
+            <input type="text" placeholder="Start my page">
+          </div>
+        <p>It’s free, and takes less than a minute.</p>
+         <ul class="nav">
+            <li style="display:inline">Video creators</li>
+            <li style="display:inline">Musicians</li>
+            <li style="display:inline">Artists</li>
+            <li style="display:inline"> Writers</li>
+            <li style="display:inline">Developers</li>
+            <li style="display:inline">Gaming</li>
+            <li style="display:inline">Podcasters</li>
+            <li style="display:inline">Community</li>
+         </ul>
+    </div>
+    <div class="donations">
+        <h2>Donations</h2>
+        <p class="title"><b>Give your audience an easy way to say thanks.</b></p>
+        <p>Buy Me a Coffee makes supporting fun and easy. In just a couple of taps, your fans can make the payment (buy you a coffee) and leave a message. They don’t even have to create an account!</p>
+        <br>
+        <h2>Membership</h2>
+        <p class="title"><b>Monthly membership for your biggest fans.</b></h1>
+        <p>Earn a recurring income by accepting monthly or yearly membership. Share exclusive content, or just give them a way to support your work on an ongoing basis.</p>
+        <h2>Extras</h2>
+        <p class="title"><b>Introducing Extras, the creative way to sell.</b></p>
+        <p>The things you’d like to sell probably do not belong in a Shopify store. Extras is designed from the ground up with creators in mind. Whether it’s a 1-1 Zoom call, art commissions, or an ebook, Extras is for you.</p>
+    </div>
+    <div class="creators">
+        <p class="title"><b>Designed for creators, not for businesses.</b></p>
+        <h2 class="circle">1</h2>
+        <p>We don't call them "customers" or transactions. They are your <b>supporters.</b></p>
+        <h2 class="circle">2</h2>
+        <p>You get paid instantly to your bank account.<b>No more 30-day delays.</b></p>
+        <h2 class="circle">3</h2>
+        <p>You have <b>100% ownership</b> of your supporters. We never email them, and you can export the list any time you like.</p>
+        <h2 class="circle">4</h2>
+        <p>You get to <b>talk to a human</b> for help, or if you just like some advice to hit the ground running.</p>
+        <button class="button button1"><b>Start my page</b> - it's free</button>
+        <p>it's free ad takes less than a minute</p>
+    </div>
+    
+</body>
+<footer>
+    <ul class="nav2">
+        <li style="display:inline">About</li>
+        <li style="display:inline">Help center</li>
+        <li style="display:inline">Resources</li>
+        <li style="display:inline">Apps</li>
+        <li style="display:inline">Privacy</li>
+        <li style="display:inline">Terms</li>
+        <li style="display:inline">© Buy Me a Coffee</li>
+     </ul>
+  </footer>
+</html>
